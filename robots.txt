@@ -1,0 +1,8 @@
+User-Agent: *
+Disallow: 
+Disallow: /upsc.html
+Disallow: /ssc.html
+Disallow: /RRB-DMRC-Exam.html
+Disallow: /Delhi-Police-Exam.html
+Disallow: /CDS-NDA-Exams.html
+Disallow: /BankPO.html
